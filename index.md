@@ -1,6 +1,10 @@
 ## Welcome to Batteri's Homepage
 
-Batteri is an app to which:
+Being good for batteries, means being good for earth.  
+
+That is what batteri is all about.
+
+Batteri is an app which:
 1. informs you how long a battery will need to charge, from its current level, to reach its target level
 1. notifies you when the charging battery has reached its target level
 1. the built in calculator allows you to calculate
